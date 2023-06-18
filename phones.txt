@@ -1,0 +1,6 @@
+1:Hubert Hue:+49895664184:Shopkeeper
+2:Dias Kapassov:+49891562648:Specialist
+3:Aleksei Stroganov:+498978945612:Shopkeeper
+4:Wagner Prig:+4989234576:Managerin
+5:Specialist Maverik:+4989666666:Specialist P&C
+6:Vilka Polka:+498978456144:DH Managerin
